@@ -13,3 +13,5 @@ Das versteht doch keine Sau!!
 
 
 Diese Aenderung wird ein der Brach "contend-feature" erstellt
+Ich aendere in der Branch "thenewbranch".
+
