@@ -1,4 +1,6 @@
 	Ich bn ein ganz toller Text.	
+
+Aenderung fuer bugfix branch
 Hier kommt noch was.
 Was ist denn ier los?
 SO un nun nochmal geaendert!
